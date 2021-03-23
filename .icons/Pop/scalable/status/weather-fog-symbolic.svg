@@ -1,0 +1,8 @@
+<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+<title>Pop Symbolic Icon Theme</title>
+<g fill="#4c5263">
+<path d="m1.4e-4 3h13c3-1e-5 3 3 3 3h-13s-3-1e-5 -3-3z" color="#bebebe" enable-background="accumulate" opacity=".3"/>
+<path d="m13 7h-13c-2e-5 3 3 3 3 3h13s0-3-3-3z" color="#bebebe" enable-background="accumulate" opacity=".3"/>
+<path d="m1.3e-4 11h13c3-2e-5 3 3 3 3h-13s-3-2e-5 -3-3z" color="#bebebe" enable-background="accumulate" opacity=".3"/>
+</g>
+</svg>

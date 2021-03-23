@@ -1,0 +1,26 @@
+<svg width="16" height="16" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#444444; } .ColorScheme-Highlight { color:#5294e2; }</style>
+<filter color-interpolation-filters="sRGB">
+<feBlend in2="BackgroundImage" mode="darken"/>
+</filter>
+<filter color-interpolation-filters="sRGB">
+<feBlend in2="BackgroundImage" mode="darken"/>
+</filter>
+</defs>
+<g transform="translate(17.627 -2.4407)" fill="#808080">
+<path d="m-13.627 4.4407c-1.6447 0-3 1.3553-3 3v6c0 1.6447 1.3553 3 3 3h8c1.6447 0 3-1.3553 3-3v-6c0-1.6447-1.3553-3-3-3zm0 2h8c0.5713 0 1 0.4287 1 1v6c0 0.5713-0.4287 1-1 1h-8c-0.5713 0-1-0.4287-1-1v-6c0-0.5713 0.4287-1 1-1z" color="#000000" color-rendering="auto" dominant-baseline="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m-13.627 7.4407v4l1.5-1.5 1.5 1.5 2.5-2.5 2.5 2.5v-4z" opacity=".5"/>
+<path d="m-9.6271 9.4407 4 4h-8z"/>
+</g>
+<g transform="translate(-162.42 -276.36)" enable-background="new" fill="#4c5263">
+<path d="m528-56c-1.6447 0-3 1.3553-3 3v6c0 1.6447 1.3553 3 3 3h8c1.6447 0 3-1.3553 3-3v-6c0-1.6447-1.3553-3-3-3zm0 2h8c0.5713 0 1 0.4287 1 1v6c0 0.5713-0.4287 1-1 1h-8c-0.5713 0-1-0.4287-1-1v-6c0-0.5713 0.4287-1 1-1z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m528-53v4l1.5-1.5 1.5 1.5 2.5-2.5 2.5 2.5v-4z" opacity=".5"/>
+<path d="m532-51 4 4h-8z"/>
+</g>
+<g transform="translate(-160.73 -271.42)" enable-background="new" fill="#4c5263">
+<path d="m528-56c-1.6447 0-3 1.3553-3 3v6c0 1.6447 1.3553 3 3 3h8c1.6447 0 3-1.3553 3-3v-6c0-1.6447-1.3553-3-3-3zm0 2h8c0.5713 0 1 0.4287 1 1v6c0 0.5713-0.4287 1-1 1h-8c-0.5713 0-1-0.4287-1-1v-6c0-0.5713 0.4287-1 1-1z" color="#000000" color-rendering="auto" dominant-baseline="auto" enable-background="accumulate" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+<path d="m528-53v4l1.5-1.5 1.5 1.5 2.5-2.5 2.5 2.5v-4z" opacity=".5"/>
+<path d="m532-51 4 4h-8z"/>
+</g>
+</svg>

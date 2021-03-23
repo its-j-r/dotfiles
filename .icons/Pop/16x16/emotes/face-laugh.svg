@@ -1,0 +1,14 @@
+<svg width="16" height="16" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:osb="http://www.openswatchbook.org/uri/2009/osb">
+<title>Pop Symbolic Icon Theme</title>
+<defs>
+<filter color-interpolation-filters="sRGB">
+<feBlend in2="BackgroundImage" mode="darken"/>
+</filter>
+</defs>
+<path d="m7.9998 0.99948c-3.866 0-7 3.134-7 7s3.134 7 7 7 7-3.134 7-7-3.134-7-7-7z" color="#bebebe" enable-background="accumulate" fill="#ff9800"/>
+<g fill="#4c5263">
+<path d="m4.9998 5.0346c0.55407 0 1 0.44945 1 1 0 0.18562-0.0639 0.35073-0.15234 0.5-0.17385-0.29354-0.48036-0.5-0.84766-0.5-0.36741 0-0.67384 0.20646-0.84766 0.5-0.0884-0.14927-0.15234-0.31438-0.15234-0.5 0-0.55055 0.44576-1 1-1z" color="#bebebe" enable-background="accumulate"/>
+<path d="m11 5.0346c0.55415 0 1 0.44945 1 1 0 0.18562-0.0639 0.35073-0.15234 0.5-0.17384-0.29354-0.48031-0.5-0.84766-0.5-0.3673 0-0.67381 0.20646-0.84766 0.5-0.0884-0.14927-0.15234-0.31438-0.15234-0.5 0-0.55055 0.44593-1 1-1z" color="#bebebe" enable-background="accumulate"/>
+<path d="m3.4236 10.035h9.1562c-0.79488 1.8213-2.5929 2.999-4.5801 3-1.9858-3e-3 -3.7819-1.18-4.5762-3z" color="#bebebe" enable-background="accumulate"/>
+</g>
+</svg>
